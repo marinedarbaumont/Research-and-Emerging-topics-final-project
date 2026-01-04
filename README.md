@@ -5,6 +5,7 @@ This project analyzes Climate TRACE onsite fuel usage emissions to answer: **Whe
 ## Data and Scope
 
 - Source: Climate TRACE v4.7.1 datasets for residential and non-residential onsite fuel usage (country-level and source-level).
+- Raw Climate TRACE data is not included in this repository due to size constraints. To download the data go to https://climatetrace.org/data and download the Buildings dataset and add them to the data/raw folder
 - Emissions metric: CO₂-equivalent (100-year GWP).
 - Focus: Onsite fossil heating emissions.
 - Out of scope: Electricity generation, transport, heavy industry, or detailed asset siting.

@@ -1,5 +1,6 @@
 # Ignore raw data files (too large to push)
 data/raw/
+data/processed/
 
 # Python cache
 __pycache__/
