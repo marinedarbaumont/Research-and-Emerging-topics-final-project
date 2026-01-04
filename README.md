@@ -66,6 +66,10 @@ pip install pandas duckdb numpy scikit-learn streamlit plotly
 
 ## How to run
 
+### 0) Create two folders
+
+Create a 'raw' and a 'processed' folder in the data folder, they are deleted by the gitignore.
+
 ### 1) Run the analysis pipeline
 ```bash
 python main.py
