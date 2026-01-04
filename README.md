@@ -82,6 +82,7 @@ What happens:
 
 Notes:
 - Large CSVs can take several minutes.
+- The last part (clustering) can take several minutes also.
 - Existing Parquet files are reused; ingestion is skipped if already present.
 
 ### 2) Run the Streamlit app
