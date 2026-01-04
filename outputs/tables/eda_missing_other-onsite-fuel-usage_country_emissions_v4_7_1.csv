@@ -1,0 +1,12 @@
+column_name,total_rows,missing_rows,pct_missing
+emissions_quantity_units,2772,2772,100.0
+created_date,2772,2772,100.0
+modified_date,2772,2772,100.0
+iso3_country,2772,0,0.0
+sector,2772,0,0.0
+subsector,2772,0,0.0
+start_time,2772,0,0.0
+end_time,2772,0,0.0
+gas,2772,0,0.0
+emissions_quantity,2772,0,0.0
+temporal_granularity,2772,0,0.0

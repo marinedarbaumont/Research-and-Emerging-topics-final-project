@@ -1,0 +1,17 @@
+column_name,total_rows,missing_rows,pct_missing
+source_name,3308800,3308800,100.0
+created_date,3308800,3308800,100.0
+source_id,3308800,0,0.0
+iso3_country,3308800,0,0.0
+sector,3308800,0,0.0
+subsector,3308800,0,0.0
+start_time,3308800,0,0.0
+end_time,3308800,0,0.0
+source_type,3308800,0,0.0
+capacity,3308800,0,0.0
+capacity_factor,3308800,0,0.0
+activity,3308800,0,0.0
+gas,3308800,0,0.0
+emissions_factor,3308800,0,0.0
+emissions_quantity,3308800,0,0.0
+modified_date,3308800,0,0.0
